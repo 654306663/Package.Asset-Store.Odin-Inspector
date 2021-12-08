@@ -1,5 +1,6 @@
 {
   "name": "com.asset-store.sirenix.odin-inspector",
   "displayName": "Asset-Store.Odin-Inspector",
-  "version": "3.0.9"
+  "version": "3.0.12",
+  "unity": "2018.4"
 }
